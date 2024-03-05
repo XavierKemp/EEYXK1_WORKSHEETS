@@ -1,0 +1,5 @@
+git show = shows specified log
+git log = shows commit history 
+git checkout = check out a previous version
+git init = initialises and creates a hidden git file in a repositry
+git reset = undoes a commit

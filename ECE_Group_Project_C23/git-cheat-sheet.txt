@@ -1,0 +1,9 @@
+git add FILE |adds a file to the working index
+git commit -am "FILENAME" | commits the changes to the HEAD
+
+The HEAD is the current working pointer on the current branch, goes back and forward along the branches
+
+git log | displays all previous commits
+git checkout BRANCH or HEAD@{POSITON} | Checkouts branch or HEAD position specified
+git reset HEAD@{POSITION} | Resets or rollsback the last change at the current HEAD
+
